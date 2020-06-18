@@ -1,2 +1,5 @@
 *.class
 *.log
+.idea
+target
+src/main/resources/stackoverflow/stackoverflow.csv
